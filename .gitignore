@@ -1,2 +1,8 @@
 __pycache__/
 .DS_Store
+
+venv/
+demo/output/
+demo/lib/checkpoint/
+checkpoint/
+.vscode/
