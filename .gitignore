@@ -6,3 +6,4 @@ demo/output/
 demo/lib/checkpoint/
 checkpoint/
 .vscode/
+.history/
